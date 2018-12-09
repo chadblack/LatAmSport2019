@@ -1,0 +1,23 @@
+# Sample site navigation bar links
+
+- title: History of Latin American Sport 
+  url: /
+- title: posts
+  url: /posts/
+- title: syllabus
+  url: /syllabus/
+- title: calendar
+  url: /calendar/
+- title: assignments
+  url: /assignments/
+
+# - title: Categories
+#   url: /categories/
+# - title: Tags
+#   url: /tags/
+# - title: Recipes
+#   url: /recipes/
+# - title: Search
+#   url: /search/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html

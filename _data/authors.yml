@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Chad Black:
+  name: Chad Black
+  twitter: "@parezcoydigo"
+  links:
+    - title: Twitter
+      url: https://twitter.com/parezcoydigo
+      icon: fab fa-twitter-square
+
