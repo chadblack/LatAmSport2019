@@ -24,9 +24,9 @@ Your grade in this course is based on four assignments:
    World of Lucha Libre*, and analyze Mexican wresting from the perspective of
    a sports historian.
 
-4. **Story Presentation and Paper**. (20%)
+4. **Final Essay.** (20%)
    
-   Each student will research an event or individual in Latin American Sport
-   History, write a paper, and tell a historical story in a 5 minute
-   presentation to the class. This is a challenging assignment! We will work on
-   it across the semester. Imagine this as historical nonfiction reporting.
+   Students will write a final essay based on a prompt provided by the
+   professor, and due during the final exam period. This essay will need
+   citations, and will challenge the student to synthesize the course as
+   a whole.
