@@ -66,7 +66,7 @@ International Journal of the History of Sport*, 33:10 (2016), 1009-1027.
 * David Patrick Cahill, "The Virgin and the Inca: An Incaic Procession in the City of
 Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
-## Week 4: Transitions
+## Week 4: Transitions I -- the 19th century
 
 ### Tuesday, January 29, 2019
 
@@ -80,18 +80,25 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 * Beezley, finish.
 
-## Week 5: US Empire and Sport at the Turn of the Century
+## Week 5: Transitions II -- the New Century
 
 ### Tuesday, February 5, 2019
 
 **Readings:**
 
+* Joshua Nadel, *Fútbol!*, Introduction and Chapter 1.
 
-
+* Cesar R. Torres, "The Latin American ‘Olympic explosion’ of the 1920s: Causes
+and consequences," *The International Journal of the History of Sport*, 23:7
+(2006), 1088-1111.
 
 ### Thursday, February 7, 2019
 
 **Readings:**
+
+* Raanan Rein, "People of the Book or People of the (Foot)Ball? On the Pitch
+with Fans of Atlanta in Buenos Aires," in Sheinin, *Sports Culture in Latin
+American History*.
 
 ## Week 6: Populism, Sport, and Nation I
 
@@ -99,11 +106,20 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Joshua Nadel, *Fútbol!*, Chapter 2.
 * Matthew Karush, "National Identity in the Sports Pages: Football:
 
 ### Thursday, February 14, 2019
 
 **Readings:**
+
+* Gregg P. Bocketti, "Italian Immigrants, Brazilian Football, and the Dilemma
+of National Identity," *Journal of Latin American Studies* 49.2 (May 2008):
+275-302.
+
+* Brenda Elsey, "The Independent Republic of Football: The Politics of
+Neighborhood Clubs in Snatiago, Chile, 1948-1960," *Journal of Social History*
+42.3 (Spring 2009): 605-630.
 
 ## Week 7: Populism, Sport, and Nation II
 
@@ -111,9 +127,22 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Roberta Park, "From *La Bomba* to *Béisbol*: Sport and the Americanization of
+Puerto Rico, 1898-1950," *International Journal of the History of Sport* 28.17
+(2011): 2575-2593.
+
+DUE: Mexican Sportsman Paper.
+
+
 ### Thursday, February 21, 2019
 
 **Readings:**
+
+* Alan Klein, "Latinizing the ‘national pastime’," *The International Journal
+of the History of Sport*, 24:2 (2007), 296-310.
+
+* Alan Klein, "Culture, Politics, and Baseball in the Dominican Republic,"
+*Latin American Perspectives* 22.3 (1995): 111-130.
 
 ## Week 8: Boxing, Race, and Empire
 
@@ -121,9 +150,21 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Enver M. Casimir, "Contours of Transnational Contact: Kid Chocolate, Cuba, and
+the United States in the 1920s and 1930s," *Journal of Sport History*, 39.3
+(2012): 487-506.
+
+* David Sheinin, "Boxing in the Making of Colombian *Costeño* Identity," in
+Sheinin, *Sports Culture in Latin American History*.
+
 ### Thursday, February 28, 2019
 
 **Readings:**
+
+* Michael Donogoghue, "Roberto Durán, Omar Torrijos, and the Rise of the
+Isthmian Machismo," in Sheinin, *Sports Culture in Latin American History*.
+
+Watch "No Mas"
 
 ## Week 9: Panamerican Games and Empire
 
@@ -131,9 +172,15 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Introduction, and pick two articles from the special issue of the
+[*International Journal of the History of
+Sport](https://www.tandfonline.com/toc/fhsp20/33/1-2) on the Pan-American
+games. *IJHS* 33.1-2 (2016).
+
 ### Thursday, March 7, 2019
 
-**Readings:**
+DUE: week's precis.
+
 
 ## Week 10: Olympics, Mexico 1968 
 
@@ -141,29 +188,37 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Eric Zolov, "Showcasing the 'Land of Tomorrow': Mexico and the 1968
+Olympics," *The Americas* 51.2 (2004): 159-188.
+
+
 ### Thursday, March 14, 2019
 
 **Readings:**
+
+* Celeste González Bustamante, "1968 Olympic Dreams and Tlatelolco Nightmares:
+Imagining and Imaging Modernity on Television," *Mexican Studies/Estudios
+Mexicanos*, 26.1 (2010): 1-30.
 
 ## Week 11: SPRING BREAK!!!
 
 ### Tuesday, March 19, 2019
 
-**Readings:**
 
 ### Thursday, March 21, 2019
 
-**Readings:**
 
 ## Week 12: Luchas
 
 ### Tuesday, March 26, 2019
 
-**Readings:**
+Watch "The Two Escobars"
 
 ### Thursday, March 28, 2019
 
-**Readings:**
+**DUE:** Review of Heather Levi,  *The World of Lucha Libre: Secrets,
+Revelations, and Mexican National Identity* (Durham: Duke University Press,
+2008).
 
 ## Week 13: Military Dictatorships and the Political Use of Sport
 
@@ -171,9 +226,23 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Joshua Nadel, *Fútbol*, Chapters 3-4.
+
 ### Thursday, April 4, 2019
 
 **Readings:**
+
+* Euclides de Freitas Couto "Football, Control and Resistance in the
+Brazilian Military Dictatorship in the 1970s," *The International Journal of the
+History of Sport* (2014) 31:10, 1267-1277.
+
+* Gloria Medina-Sancho and Margot Olavarria, 'Spaces Recovered by Memory: Film
+Language and Testimony in Parot's "Estadio Nacional",' *Latin American
+Perspectives* 40.1 (January 2013).
+
+* Jennifer L. Schaefer, "Mapping Politics into the Stadium: Political
+Demonstrations and Soccer Culture in Buenos Aires, Argentina, 1973–74,"
+*Journal of Sport History*, 44:2 (2017): 193-208.
 
 ## Week 14: Global Sport Capitalism
 
@@ -181,9 +250,16 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Joshua Nadel, finish the book.
+
 ### Thursday, April 11, 2019
 
 **Readings:**
+
+* Football in the Americas: Fútbol, Futebol, Soccer: Pages 253-268 (“Round Pegs in Square
+Holes? South American players in the Premiership”)
+* O’Donnell, Hugh. “Mapping the Mythical: A Geopolitics of National Sporting
+Stereotypes.” Discourse & Society 5, no. 3 (July 1, 1994): 345–380.
 
 ## Week 15: Capoeira and Jujitsu
 
@@ -191,9 +267,19 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Katya Wesolowski, "From 'Moral Disease' to 'National Sport': Race, Nation,
+and Capoeira in Brazil," in Sheinin, *Sports Culture in Latin American
+History*.
+
 ### Thursday, April 18, 2019
 
 **Readings:**
+
+* Greg Downey, "Domesticating an Urban Menace: Reforming Capoeira as
+a Brazilian National Sport," *IJHS* 19.4 (2002): 1-32.
+
+* Listen to [30 for 30 podcast Season 2 Episode
+2](https://30for30podcasts.com/episodes/no-rules-birth-ufc/) on the birth of the UFC.
 
 ## Week 16: Rio 2014 and 2016
 
@@ -201,8 +287,17 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 **Readings:**
 
+* Football in the Americas: Fútbol, Futebol, Soccer—pages 75-93 (“Transformations in
+National Identity through Football in Brazil”).
+
+* Christopher Gaffney, "Mega-events and socio-spatial dynamics in Rio de
+Janeiro, 1919-2016," *Journal of Latin American Geography* 9.1 (2010): 7-29.
+
 ### Thursday, April 25
 
 **Readings:**
+
+* Dave Zirin, "How the Rio Olympics Could Cement a Brazilian Coup." From *The
+Nation Magazine*.
 
 ## FINAL PAPER DUE: May 1 at 5pm.
