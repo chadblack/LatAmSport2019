@@ -59,6 +59,9 @@ University of Colorado Press, 2012.
 Córdoba: From Umayyad Recreations to Competitive Christian Sport," *The
 International Journal of the History of Sport*, 33:10 (2016), 1009-1027.
 
+* Play around with this
+[site](http://www.mesoballgame.org/ballgame/main.php?section=5).
+
 ### Thursday, January 24, 2019 
 
 **Readings:**
