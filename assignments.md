@@ -8,7 +8,7 @@ Your grade in this course is based on four assignments:
 1. **Reading Memos.** (30%)
    
    Each week, students much write a research memo for the day's reading.
-   Instructions for how to write a research memo are [here](memo/). The purpose
+   Instructions for how to write a research memo are [here](/memo). The purpose
    of the research memo is to habituate you to thinking historiographically and
    synthetically about the content across the semester.
 
