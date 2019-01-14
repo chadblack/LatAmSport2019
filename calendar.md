@@ -40,9 +40,6 @@ Sport*, 18:3 (2001), 43-58.
 English Middle-Class Inspiration?" *The International Journal of the History of
 Sport*, 18:3 (2001), 9-42.
 
-* Lamartine P DaCosta "Epilogue: Hegemony, Emancipation and Mythology,
-*The International Journal of the History of Sport*, 18:3 (2001), 181-196.
-
 
 ## Week 3: Premodern Sport, Ritual, and Leisure
 
@@ -61,6 +58,8 @@ International Journal of the History of Sport*, 33:10 (2016), 1009-1027.
 
 * Play around with this
 [site](http://www.mesoballgame.org/ballgame/main.php?section=5).
+
+**Chose one of the above articles for a memo.**
 
 ### Thursday, January 24, 2019 
 
@@ -91,10 +90,6 @@ Cuzco in 1692," *Ethnohistory*, 49.3 (Summer 2002), pp. 611-649.
 
 * Joshua Nadel, *Fútbol!*, Introduction and Chapter 1.
 
-* Cesar R. Torres, "The Latin American ‘Olympic explosion’ of the 1920s: Causes
-and consequences," *The International Journal of the History of Sport*, 23:7
-(2006), 1088-1111.
-
 ### Thursday, February 7, 2019
 
 **Readings:**
@@ -110,7 +105,6 @@ American History*.
 **Readings:**
 
 * Joshua Nadel, *Fútbol!*, Chapter 2.
-* Matthew Karush, "National Identity in the Sports Pages: Football:
 
 ### Thursday, February 14, 2019
 
@@ -121,8 +115,12 @@ of National Identity," *Journal of Latin American Studies* 49.2 (May 2008):
 275-302.
 
 * Brenda Elsey, "The Independent Republic of Football: The Politics of
-Neighborhood Clubs in Snatiago, Chile, 1948-1960," *Journal of Social History*
+Neighborhood Clubs in Santiago, Chile, 1948-1960," *Journal of Social History*
 42.3 (Spring 2009): 605-630.
+
+Chose one of the above for today's memo.
+
+**DUE: Mexican Sportsman Paper**
 
 ## Week 7: Populism, Sport, and Nation II
 
@@ -133,8 +131,6 @@ Neighborhood Clubs in Snatiago, Chile, 1948-1960," *Journal of Social History*
 * Roberta Park, "From *La Bomba* to *Béisbol*: Sport and the Americanization of
 Puerto Rico, 1898-1950," *International Journal of the History of Sport* 28.17
 (2011): 2575-2593.
-
-DUE: Mexican Sportsman Paper.
 
 
 ### Thursday, February 21, 2019
@@ -147,6 +143,8 @@ of the History of Sport*, 24:2 (2007), 296-310.
 * Alan Klein, "Culture, Politics, and Baseball in the Dominican Republic,"
 *Latin American Perspectives* 22.3 (1995): 111-130.
 
+Chose one of these for today's memo.
+
 ## Week 8: Boxing, Race, and Empire
 
 ### Tuesday, February 26, 2019
@@ -157,9 +155,6 @@ of the History of Sport*, 24:2 (2007), 296-310.
 the United States in the 1920s and 1930s," *Journal of Sport History*, 39.3
 (2012): 487-506.
 
-* David Sheinin, "Boxing in the Making of Colombian *Costeño* Identity," in
-Sheinin, *Sports Culture in Latin American History*.
-
 ### Thursday, February 28, 2019
 
 **Readings:**
@@ -167,7 +162,8 @@ Sheinin, *Sports Culture in Latin American History*.
 * Michael Donogoghue, "Roberto Durán, Omar Torrijos, and the Rise of the
 Isthmian Machismo," in Sheinin, *Sports Culture in Latin American History*.
 
-Watch "No Mas"
+Watch "No Mas" in class.
+
 
 ## Week 9: Panamerican Games and Empire
 

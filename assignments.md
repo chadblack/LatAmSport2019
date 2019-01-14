@@ -16,7 +16,8 @@ Your grade in this course is based on four assignments:
 2. **Mexican Sportsman Paper**. (25%)
    
    Students will write a paper on the culture of sport in the American Colony
-   in Mexico using a year's worth of the *Mexican Sportman* newspaper form the
+   in Mexico using a month's worth of the *Mexican Sportman* newspaper
+   from the
    1890s.
 
 3. **Book Review**. (25%)
