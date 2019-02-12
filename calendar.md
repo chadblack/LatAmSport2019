@@ -120,7 +120,6 @@ Neighborhood Clubs in Santiago, Chile, 1948-1960," *Journal of Social History*
 
 Chose one of the above for today's memo.
 
-**DUE: Mexican Sportsman Paper**
 
 ## Week 7: Populism, Sport, and Nation II
 
@@ -154,6 +153,11 @@ Chose one of these for today's memo.
 * Enver M. Casimir, "Contours of Transnational Contact: Kid Chocolate, Cuba, and
 the United States in the 1920s and 1930s," *Journal of Sport History*, 39.3
 (2012): 487-506.
+
+
+
+**DUE: Mexican Sportsman Paper**
+
 
 ### Thursday, February 28, 2019
 
