@@ -177,7 +177,7 @@ Watch "No Mas" in class.
 
 * Introduction, and pick two articles from the special issue of the
 [*International Journal of the History of
-Sport*](https://www.tandfonline.com/toc/fhsp20/33/1-2) on the Pan-American
+Sport*](https://www-tandfonline-com.proxy.lib.utk.edu/toc/fhsp20/33/1-2) on the Pan-American
 games. *IJHS* 33.1-2 (2016).
 
 ### Thursday, March 7, 2019
