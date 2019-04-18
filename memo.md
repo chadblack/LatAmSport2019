@@ -27,7 +27,7 @@ order to” phrase.
 
 **Example:**
 
-Charles S. Peirce’s article, “The Fixation of Belief” (1877), asserts
+> Charles S. Peirce’s article, “The Fixation of Belief” (1877), asserts
 that humans have psychological and social mechanisms designed to
 protect and cement (or “fix”) our beliefs. Peirce backs this claim
 up with descriptions of four methods of fixing belief, pointing out
@@ -36,7 +36,7 @@ purpose is to point out the ways that people commonly establish
 their belief systems in order to jolt the awareness of the reader into
 considering how their own belief system may the product of such
 methods and to consider what Peirce calls “the method of science”
-as a progressive alternative to the other three.^[[Source for this exampple.](http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sample_precis_click)]
+as a progressive alternative to the other three.[^source]
 
 **rest of the memo**
 
@@ -52,3 +52,7 @@ and need include only two paragraphs.
 Please type and print a memo for each reading. The memos will form the
 basis for our discussion in class, and will be sources for your final
 exam.
+
+[^source]: [Source for this exampple.](http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sample_precis_click)]
+
+
