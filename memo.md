@@ -53,6 +53,6 @@ Please type and print a memo for each reading. The memos will form the
 basis for our discussion in class, and will be sources for your final
 exam.
 
-[^source]: [Source for this exampple.](http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sample_precis_click)]
+[^source]: [Source for this example.](http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sample_precis_click)
 
 
