@@ -36,8 +36,7 @@ purpose is to point out the ways that people commonly establish
 their belief systems in order to jolt the awareness of the reader into
 considering how their own belief system may the product of such
 methods and to consider what Peirce calls “the method of science”
-as a progressive alternative to the other three.^[Source for this example–
-http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sample_precis_click]
+as a progressive alternative to the other three.^[[Source for this exampple.](http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sample_precis_click)]
 
 **rest of the memo**
 
